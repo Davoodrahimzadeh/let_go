@@ -1,0 +1,216 @@
+Country,Natural gas - production (barrel/day),Country,Natural gas - consumption (barrel/day),Country,Natural gas - exports (bbl/day),Country,Natural gas - imports (bbl/day),Country,Natural gas - proved reserves (bbl)
+United States,"12,454,472",United States,"12,370,668",Russia,"3,387,591",Germany,"1,925,866",Russia,"281,176,468,588"
+Russia,"10,726,833",Russia,"7,534,247",Qatar,"2,038,679",Japan,"1,879,130",Iran,"198,352,941,490"
+Iran,"3,456,890",China,"3,845,286",Norway,"1,937,148",China,"1,573,409",Qatar,"141,588,230,385"
+Qatar,"2,681,708",Iran,"3,334,408",United States,"1,445,608",United States,"1,388,396",United States,"84,033,613,445"
+Canada,"2,564,061",Japan,"2,049,960",Canada,"1,353,102",Italy,"1,122,643",Saudi Arabia,"50,700,000,413"
+China,"2,351,329",Canada,"2,004,835",Australia,"1,095,246",Turkey,"888,477",Turkmenistan,"44,141,176,037"
+Norway,"1,996,777",Saudi Arabia,"1,761,483",Algeria,"868,332",Netherlands,"821,918",United Arab Emirates,"35,829,413,237"
+Saudi Arabia,"1,761,483",Germany,"1,504,593",Netherlands,"825,947",Mexico,"807,736",Venezuela,"33,758,824,135"
+Australia,"1,695,407",Mexico,"1,315,230",Malaysia,"616,116","Korea, South","784,045",Nigeria,"32,205,883,079"
+Algeria,"1,506,849",United Kingdom,"1,275,907",Turkmenistan,"614,666",France,"783,078",China,"32,000,001,349"
+Turkmenistan,"1,248,187",Italy,"1,211,120",Germany,"557,776",United Kingdom,"757,454",Algeria,"26,494,116,900"
+Indonesia,"1,161,805",United Arab Emirates,"1,200,322",Indonesia,"479,936",Spain,"558,098",Iraq,"22,470,588,922"
+Malaysia,"1,119,903",Egypt,"930,056",Nigeria,"438,517",Canada,"424,819",Indonesia,"16,858,822,969"
+United Arab Emirates,"999,355",India,"893,312",Trinidad and Tobago,"249,637",India,"386,140",Mozambique,"16,658,824,059"
+Uzbekistan,"839,645",Turkey,"863,820",Bolivia,"249,154",Taiwan,"356,809",Kazakhstan,"14,158,823,038"
+Egypt,"819,662",Thailand,"848,348",Burma,"226,753",United Arab Emirates,"325,866",Egypt,"12,858,823,186"
+Netherlands,"730,540",Argentina,"790,330",Kazakhstan,"206,285",Belgium,"291,539",Canada,"12,094,117,527"
+Nigeria,"716,841","Korea, South","729,734",Iran,"187,591",Belarus,"282,514",Australia,"11,700,000,214"
+United Kingdom,"678,646",Australia,"729,251",United Kingdom,"181,628",Russia,"254,150",Uzbekistan,"10,829,411,509"
+Argentina,"659,468",Pakistan,"726,027",Oman,"179,855",Poland,"253,344",Kuwait,"10,494,117,768"
+Pakistan,"629,331",Netherlands,"699,114",Papua New Guinea,"178,888",Thailand,"232,232",Norway,"10,482,352,899"
+Thailand,"621,918",Uzbekistan,"694,118",Uzbekistan,"151,507",Austria,"225,947",Libya,"8,852,941,354"
+Trinidad and Tobago,"591,942",Indonesia,"682,031",Brunei,"133,247",Singapore,"217,244",India,"7,588,235,336"
+Mexico,"508,783",France,"674,940",Azerbaijan,"129,605",Hungary,"215,471",Malaysia,"6,958,823,737"
+India,"508,300",Algeria,"665,270",United Arab Emirates,"120,935",Ukraine,"209,025",Ukraine,"6,494,117,984"
+Oman,"503,304",Qatar,"643,030",France,"97,196",Brazil,"169,380",Azerbaijan,"5,830,000,062"
+Bangladesh,"475,907",Turkmenistan,"633,521",East Timor,"93,086",Argentina,"158,356",Netherlands,"4,714,117,819"
+Venezuela,"436,261",Brazil,"553,586",Peru,"88,719",Czech Republic,"143,288",Vietnam,"4,114,117,620"
+Brazil,"386,140",Spain,"503,948",Austria,"87,623",Egypt,"114,085",Oman,"3,831,176,349"
+Kazakhstan,"361,160",Ukraine,"498,308",Equatorial Guinea,"78,614",Portugal,"105,415",Burma,"3,747,647,247"
+Ukraine,"317,969",Malaysia,"490,572",Libya,"74,843",Jordan,"104,045",Pakistan,"3,463,529,412"
+Bolivia,"301,209",Bangladesh,"475,907",Mozambique,"67,075",Pakistan,"96,745",Yemen,"2,814,705,857"
+Burma,"296,696",Venezuela,"390,169",Angola,"64,351",Australia,"93,086",Peru,"2,681,764,731"
+Kuwait,"275,584",Taiwan,"361,805",Hungary,"56,728",Kazakhstan,"92,635",Trinidad and Tobago,"2,631,764,619"
+Azerbaijan,"273,328",Oman,"353,586",China,"54,311",Kuwait,"82,595",Brazil,"2,220,000,003"
+Bahrain,"256,084",Kuwait,"350,040",Spain,"46,543",Slovakia,"80,322",Argentina,"1,980,000,039"
+Peru,"209,347",Trinidad and Tobago,"342,305",Denmark,"36,052",Greece,"80,322",Angola,"1,812,352,976"
+Brunei,"205,318",Poland,"323,932",Jordan,"21,902",Chile,"71,652",Bolivia,"1,740,588,165"
+Papua New Guinea,"180,177",Belarus,"285,254",Poland,"20,081",South Africa,"67,075",Mexico,"1,645,882,284"
+Romania,"175,181",Belgium,"283,803",Belgium,"11,865",Iran,"64,351",Brunei,"1,532,352,922"
+Colombia,"161,483",Nigeria,"277,840",Turkey,"10,039",Tunisia,"62,063",Syria,"1,415,882,342"
+Israel,"158,356",Bahrain,"256,084",Singapore,"10,039",Switzerland,"59,323",Papua New Guinea,"1,238,235,256"
+Libya,"146,479",Kazakhstan,"247,703",Chile,"4,472",Hong Kong,"54,311",East Timor,"1,176,470,564"
+Vietnam,"130,508",Singapore,"209,025",Italy,"4,380",Bulgaria,"52,474",Thailand,"1,137,647,038"
+Germany,"127,317",Romania,"186,624",Egypt,"3,423",Malaysia,"45,173",Bangladesh,"1,092,941,173"
+Equatorial Guinea,"97,808",Hungary,"167,446",Croatia,"2,783",Moldova,"40,612",Israel,"1,035,294,166"
+Mozambique,"96,745",Azerbaijan,"166,640",Japan,"2,738",Lithuania,"40,161",United Kingdom,"1,035,294,166"
+East Timor,"93,086",Colombia,"162,450",Brazil,"2,168",Armenia,"37,873",Cameroon,"794,705,872"
+Poland,"92,635",Israel,"161,080",Argentina,"1,232",Finland,"37,421",Colombia,"670,000,020"
+Italy,"89,444",Austria,"152,877",India,"1,232",Georgia,"36,970",Romania,"620,588,237"
+New Zealand,"82,143",Czech Republic,"140,548",Mexico,593,Azerbaijan,"33,763",Philippines,"579,647,078"
+Denmark,"78,034",Vietnam,"130,508",Bulgaria,502,Serbia,"32,393",Chile,"576,294,141"
+Syria,"60,242",Peru,"120,596",Romania,365,Oman,"31,942",Bahrain,"541,352,948"
+Ireland,"56,583",Portugal,"100,854",Finland,64,Croatia,"29,670","Congo, Republic of the","532,999,999"
+Angola,"50,201",Jordan,"84,416",Slovenia,46,Ireland,"26,463",Sudan,"499,705,880"
+Tanzania,"50,201",Ireland,"84,416",Aruba,0,Iraq,"21,902",Poland,"469,352,930"
+Philippines,"49,283",New Zealand,"83,513",Antigua and Barbuda,0,Puerto Rico,"20,999",Cuba,"416,411,744"
+Japan,"49,283",Chile,"82,595",Afghanistan,0,Latvia,"20,081",Tunisia,"383,117,649"
+Cote d'Ivoire,"37,421",Tunisia,"82,595",American Samoa,0,Romania,"19,629",South Sudan,"374,764,701"
+Hungary,"29,202",South Africa,"81,692",Albania,0,Dominican Republic,"18,711",Namibia,"366,411,776"
+"Congo, Republic of the","22,353",Greece,"79,404",Armenia,0,Morocco,"18,259",Rwanda,"333,117,657"
+Austria,"20,532",Slovakia,"75,294",Andorra,0,Slovenia,"14,603",Afghanistan,"291,470,589"
+Iraq,"20,532",Burma,"72,554","Bahamas, The",0,Luxembourg,"12,777",Serbia,"283,176,478"
+Tunisia,"20,532",Libya,"71,652",Bangladesh,0,Sweden,"12,321",Germany,"232,352,949"
+Chile,"19,629",Norway,"65,254",Belize,0,Israel,"8,214",Italy,"224,176,465"
+Cuba,"19,162",Brunei,"63,433",Bosnia and Herzegovina,0,Denmark,"8,214",Equatorial Guinea,"216,529,402"
+Croatia,"16,890",Syria,"60,242",Bahrain,0,Estonia,"7,758",New Zealand,"198,235,293"
+Ghana,"14,737",Switzerland,"59,774",Barbados,0,Ghana,"5,115",Mauritania,"166,588,235"
+Cameroon,"14,672",Hong Kong,"54,311",Botswana,0,Malta,"5,020",Cote d'Ivoire,"166,588,235"
+South Africa,"14,603",Bulgaria,"53,392",Bermuda,0,Bosnia and Herzegovina,"3,650",Gabon,"166,588,235"
+Serbia,"8,214",Bolivia,"51,104",Bhutan,0,Macedonia,"3,194",Ethiopia,"146,588,238"
+Yemen,"7,758",Philippines,"50,653",Benin,0,Jamaica,"3,194",Croatia,"146,588,238"
+Ecuador,"7,700",Tanzania,"50,201",Belarus,0,Macau,"2,828",Ghana,"133,235,290"
+Gabon,"6,463",Denmark,"50,201",Solomon Islands,0,Kyrgyzstan,"2,738",Japan,"122,941,175"
+Turkey,"5,932",Serbia,"43,803",Cayman Islands,0,Uruguay,"1,141",Slovakia,"83,294,118"
+"Korea, South","5,476",Iraq,"42,434",Cameroon,0,Colombia,776,Uganda,"83,294,118"
+Taiwan,"3,834",Croatia,"41,531",Comoros,0,Norway,91,Denmark,"75,647,060"
+Czech Republic,"3,697",Moldova,"40,612",Colombia,0,Barbados,91,Ecuador,"64,117,646"
+Afghanistan,"2,646",Lithuania,"40,161",Costa Rica,0,"Bahamas, The",1,Ireland,"58,300,000"
+Jordan,"1,963",Finland,"37,873",Central African Republic,0,Aruba,0,Georgia,"49,970,589"
+Slovakia,"1,689",Armenia,"37,873",Cuba,0,Antigua and Barbuda,0,France,"49,470,587"
+Morocco,"1,415",Cote d'Ivoire,"37,421",Cape Verde,0,Afghanistan,0,"Korea, South","41,641,177"
+Bulgaria,"1,278",Georgia,"36,970",Cook Islands,0,Algeria,0,Hungary,"38,811,765"
+Belarus,958,Mozambique,"29,670",Ireland,0,Andorra,0,Austria,"38,311,764"
+Senegal,958,"Congo, Republic of the","22,353",Burundi,0,Angola,0,Tanzania,"38,311,764"
+Albania,821,Puerto Rico,"20,999",Estonia,0,American Samoa,0,Taiwan,"36,641,178"
+Spain,593,Ghana,"19,855",Eritrea,0,Botswana,0,Jordan,"35,476,471"
+Kyrgyzstan,456,Morocco,"19,629",El Salvador,0,Bermuda,0,Kyrgyzstan,"33,311,765"
+Tajikistan,319,Latvia,"19,629",Ethiopia,0,Bahrain,0,Bulgaria,"33,311,765"
+France,274,Equatorial Guinea,"19,162",Czech Republic,0,Albania,0,Somalia,"33,311,765"
+Barbados,228,Cuba,"19,162",Djibouti,0,Bangladesh,0,Tajikistan,"33,311,765"
+Moldova,183,Dominican Republic,"18,711",Dominica,0,Belize,0,Turkey,"29,982,353"
+Greece,129,Cameroon,"14,603",Dominican Republic,0,Bolivia,0,Czech Republic,"23,317,647"
+Slovenia,129,Slovenia,"14,603",Ecuador,0,Burma,0,Guatemala,"17,411,765"
+Georgia,119,Angola,"13,234",Cambodia,0,Benin,0,Belarus,"16,658,824"
+Aruba,0,Luxembourg,"12,777",Chad,0,Bhutan,0,Spain,"14,988,235"
+Antigua and Barbuda,0,Sweden,"12,321",Sri Lanka,0,Solomon Islands,0,Morocco,"8,494,118"
+American Samoa,0,Yemen,"7,758","Congo, Republic of the",0,Cambodia,0,Benin,"6,664,706"
+Armenia,0,Estonia,"7,758","Congo, Democratic Republic of the",0,Chad,0,"Congo, Democratic Republic of the","5,830,000"
+Andorra,0,Ecuador,"7,302","Gambia, The",0,Sri Lanka,0,Greece,"5,830,000"
+Botswana,0,Gabon,"6,463",Gabon,0,"Congo, Republic of the",0,Albania,"4,830,588"
+Bermuda,0,Malta,"4,564",Georgia,0,"Congo, Democratic Republic of the",0,Barbados,"832,941"
+Belgium,0,Bosnia and Herzegovina,"3,650",Ghana,0,Costa Rica,0,Botswana,0
+"Bahamas, The",0,Macedonia,"3,194",Gibraltar,0,Central African Republic,0,Bermuda,0
+Solomon Islands,0,Jamaica,"3,194",Grenada,0,Cuba,0,Belgium,0
+Bhutan,0,Kyrgyzstan,"3,012",Greenland,0,Cape Verde,0,"Bahamas, The",0
+Benin,0,Macau,"2,872",Guam,0,Cook Islands,0,Armenia,0
+Belize,0,Afghanistan,"2,646",Greece,0,Cayman Islands,0,Andorra,0
+Bosnia and Herzegovina,0,Papua New Guinea,"1,597",Guatemala,0,Cameroon,0,American Samoa,0
+"Congo, Democratic Republic of the",0,Uruguay,"1,141",Guinea,0,Comoros,0,Aruba,0
+Burundi,0,Senegal,958,Guyana,0,Djibouti,0,Antigua and Barbuda,0
+Cambodia,0,Albania,821,Haiti,0,Dominica,0,Belize,0
+Chad,0,Barbados,319,Hong Kong,0,Brunei,0,Bosnia and Herzegovina,0
+Sri Lanka,0,Tajikistan,319,Honduras,0,Burundi,0,Solomon Islands,0
+"Gambia, The",0,"Bahamas, The",1,Fiji,0,Ecuador,0,Bhutan,0
+Gibraltar,0,Aruba,0,Falkland Islands (Islas Malvinas),0,Equatorial Guinea,0,Burundi,0
+Grenada,0,Antigua and Barbuda,0,Faroe Islands,0,Gibraltar,0,Cambodia,0
+Greenland,0,American Samoa,0,French Polynesia,0,Grenada,0,Chad,0
+Finland,0,Andorra,0,Iceland,0,Greenland,0,Sri Lanka,0
+Fiji,0,Botswana,0,Kenya,0,"Gambia, The",0,Cayman Islands,0
+Falkland Islands (Islas Malvinas),0,Bermuda,0,Kyrgyzstan,0,Gabon,0,Costa Rica,0
+"Micronesia, Federated States of",0,Belize,0,"Korea, North",0,Guam,0,Central African Republic,0
+Faroe Islands,0,Benin,0,Kiribati,0,Eritrea,0,Comoros,0
+French Polynesia,0,Solomon Islands,0,"Korea, South",0,El Salvador,0,Cape Verde,0
+Estonia,0,Bhutan,0,Kuwait,0,Ethiopia,0,Cook Islands,0
+Eritrea,0,Cambodia,0,Kosovo,0,Fiji,0,Djibouti,0
+El Salvador,0,Chad,0,Madagascar,0,Falkland Islands (Islas Malvinas),0,Dominica,0
+Ethiopia,0,Sri Lanka,0,Macau,0,Faroe Islands,0,Dominican Republic,0
+Djibouti,0,Djibouti,0,Moldova,0,French Polynesia,0,Fiji,0
+Dominica,0,Dominica,0,Mongolia,0,Nepal,0,Falkland Islands (Islas Malvinas),0
+Dominican Republic,0,Cape Verde,0,Montserrat,0,Nauru,0,"Micronesia, Federated States of",0
+Comoros,0,Cook Islands,0,Malawi,0,Suriname,0,Faroe Islands,0
+Cayman Islands,0,Costa Rica,0,Montenegro,0,Nicaragua,0,French Polynesia,0
+Cape Verde,0,Central African Republic,0,Macedonia,0,New Zealand,0,Estonia,0
+Cook Islands,0,Comoros,0,Mali,0,South Sudan,0,Eritrea,0
+Costa Rica,0,Cayman Islands,0,Morocco,0,Paraguay,0,El Salvador,0
+Central African Republic,0,"Congo, Democratic Republic of the",0,Mauritius,0,Peru,0,"Gambia, The",0
+Guatemala,0,Burundi,0,Mauritania,0,Maldives,0,Gibraltar,0
+Guinea,0,Eritrea,0,Malta,0,Papua New Guinea,0,Grenada,0
+Guyana,0,El Salvador,0,Laos,0,Guinea-Bissau,0,Greenland,0
+Haiti,0,Ethiopia,0,Lebanon,0,Qatar,0,Guam,0
+Hong Kong,0,Fiji,0,Latvia,0,Mali,0,Guinea,0
+Honduras,0,Falkland Islands (Islas Malvinas),0,Lithuania,0,Mauritius,0,Guyana,0
+Iceland,0,Faroe Islands,0,Liberia,0,Mauritania,0,Haiti,0
+Guam,0,French Polynesia,0,Slovakia,0,Mongolia,0,Hong Kong,0
+Jamaica,0,Gibraltar,0,Lesotho,0,Montserrat,0,Honduras,0
+"Korea, North",0,Grenada,0,Luxembourg,0,Malawi,0,Iceland,0
+Kiribati,0,Greenland,0,New Caledonia,0,Montenegro,0,"Korea, North",0
+Kenya,0,"Gambia, The",0,Niue,0,Mozambique,0,Kiribati,0
+Kosovo,0,Guam,0,Niger,0,New Caledonia,0,Kosovo,0
+Lesotho,0,Guinea-Bissau,0,Vanuatu,0,Niue,0,Kenya,0
+Luxembourg,0,Marshall Islands,0,Jamaica,0,Niger,0,Jamaica,0
+Madagascar,0,South Sudan,0,Maldives,0,Vanuatu,0,Madagascar,0
+Macau,0,Paraguay,0,Cote d'Ivoire,0,Nigeria,0,Macau,0
+Laos,0,Panama,0,Iraq,0,"Korea, North",0,Mongolia,0
+Lebanon,0,Maldives,0,Israel,0,Kiribati,0,Montserrat,0
+Latvia,0,Nepal,0,Panama,0,Kenya,0,Malawi,0
+Lithuania,0,Nauru,0,Portugal,0,Kosovo,0,Montenegro,0
+Liberia,0,Suriname,0,Pakistan,0,Laos,0,Macedonia,0
+Mongolia,0,Nicaragua,0,Guinea-Bissau,0,Lebanon,0,Mali,0
+Montserrat,0,Madagascar,0,Serbia,0,Libya,0,Mauritius,0
+Malawi,0,Mongolia,0,Marshall Islands,0,Madagascar,0,Lesotho,0
+Montenegro,0,Montserrat,0,Nepal,0,Liberia,0,Luxembourg,0
+Macedonia,0,Malawi,0,Nauru,0,Lesotho,0,Laos,0
+Mali,0,Montenegro,0,Suriname,0,Cote d'Ivoire,0,Lebanon,0
+Mauritius,0,Mali,0,Nicaragua,0,Honduras,0,Latvia,0
+Mauritania,0,Mauritius,0,New Zealand,0,Iceland,0,Lithuania,0
+Malta,0,Mauritania,0,South Sudan,0,Indonesia,0,Liberia,0
+New Caledonia,0,New Caledonia,0,Paraguay,0,Guatemala,0,Malta,0
+Niue,0,Niue,0,Sierra Leone,0,Guinea,0,Maldives,0
+Niger,0,Niger,0,Philippines,0,Guyana,0,New Caledonia,0
+Vanuatu,0,Vanuatu,0,Puerto Rico,0,Haiti,0,Niue,0
+Maldives,0,"Korea, North",0,Saint Lucia,0,Uzbekistan,0,Niger,0
+Marshall Islands,0,Kiribati,0,Sudan,0,Saint Vincent and the Grenadines,0,Vanuatu,0
+Guinea-Bissau,0,Kosovo,0,Svalbard,0,Venezuela,0,Nepal,0
+Panama,0,Kenya,0,Sweden,0,British Virgin Islands,0,Nauru,0
+Portugal,0,Laos,0,Syria,0,Vietnam,0,Suriname,0
+South Sudan,0,Lebanon,0,Switzerland,0,Virgin Islands,0,Nicaragua,0
+Paraguay,0,Liberia,0,Rwanda,0,Namibia,0,Paraguay,0
+Nepal,0,Lesotho,0,Saudi Arabia,0,West Bank,0,Panama,0
+Nauru,0,Honduras,0,Saint Pierre and Miquelon,0,Western Sahara,0,Portugal,0
+Suriname,0,Guatemala,0,Saint Kitts and Nevis,0,Samoa,0,Saint Lucia,0
+Nicaragua,0,Guinea,0,Seychelles,0,Swaziland,0,Sweden,0
+Sierra Leone,0,Guyana,0,South Africa,0,Yemen,0,Turks and Caicos Islands,0
+Singapore,0,Haiti,0,Senegal,0,Zambia,0,Tonga,0
+Somalia,0,Iceland,0,Saint Helena,0,Zimbabwe,0,Togo,0
+Saint Lucia,0,Turks and Caicos Islands,0,Somalia,0,Tuvalu,0,Sao Tome and Principe,0
+Sudan,0,Tonga,0,Tanzania,0,Turkmenistan,0,Guinea-Bissau,0
+Svalbard,0,Togo,0,Uganda,0,Tanzania,0,Puerto Rico,0
+Sweden,0,Sao Tome and Principe,0,Tuvalu,0,Uganda,0,Saint Pierre and Miquelon,0
+Puerto Rico,0,East Timor,0,Taiwan,0,Burkina Faso,0,Saint Kitts and Nevis,0
+Rwanda,0,Tuvalu,0,Thailand,0,Syria,0,Seychelles,0
+Saint Pierre and Miquelon,0,Somalia,0,Tajikistan,0,Saint Lucia,0,South Africa,0
+Saint Kitts and Nevis,0,Saint Helena,0,Turks and Caicos Islands,0,Sudan,0,Senegal,0
+Seychelles,0,Sierra Leone,0,Tonga,0,Svalbard,0,Saint Helena,0
+Turks and Caicos Islands,0,Saint Lucia,0,Togo,0,East Timor,0,Sierra Leone,0
+Tonga,0,Sudan,0,Sao Tome and Principe,0,Trinidad and Tobago,0,Singapore,0
+Togo,0,Svalbard,0,Tunisia,0,Tajikistan,0,Burkina Faso,0
+Sao Tome and Principe,0,Rwanda,0,Ukraine,0,Turks and Caicos Islands,0,Uruguay,0
+Saint Helena,0,Saint Pierre and Miquelon,0,Burkina Faso,0,Tonga,0,Saint Vincent and the Grenadines,0
+Switzerland,0,Saint Kitts and Nevis,0,Uruguay,0,Togo,0,Virgin Islands,0
+Uganda,0,Seychelles,0,Saint Vincent and the Grenadines,0,Sao Tome and Principe,0,British Virgin Islands,0
+Tuvalu,0,Burkina Faso,0,Venezuela,0,Sierra Leone,0,West Bank,0
+Zambia,0,Uganda,0,British Virgin Islands,0,Somalia,0,Western Sahara,0
+Zimbabwe,0,Virgin Islands,0,Vietnam,0,Philippines,0,Samoa,0
+Virgin Islands,0,Namibia,0,Virgin Islands,0,Senegal,0,Swaziland,0
+Namibia,0,West Bank,0,Namibia,0,Saint Helena,0,Zambia,0
+West Bank,0,Western Sahara,0,West Bank,0,Marshall Islands,0,Zimbabwe,0
+Western Sahara,0,Samoa,0,Western Sahara,0,Panama,0,,
+Samoa,0,Swaziland,0,Samoa,0,Rwanda,0,,
+Swaziland,0,British Virgin Islands,0,Swaziland,0,Saudi Arabia,0,,
+Burkina Faso,0,Saint Vincent and the Grenadines,0,Yemen,0,Saint Pierre and Miquelon,0,,
+Uruguay,0,Zambia,0,Zambia,0,Saint Kitts and Nevis,0,,
+British Virgin Islands,0,Zimbabwe,0,Zimbabwe,0,Seychelles,0,,
+Saint Vincent and the Grenadines,0,,,,,,,,
